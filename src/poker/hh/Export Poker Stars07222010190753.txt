@@ -1,0 +1,574 @@
+PokerStars Game #42546874903:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:32:50 ET
+Table 'Dolios IV' 6-max Seat #2 is the button
+Seat 1: calvin7v ($1000 in chips) 
+Seat 2: matate ($1999 in chips) 
+Seat 3: Phwap ($1000 in chips) 
+Seat 4: Philbeer ($1000 in chips) 
+Seat 5: TheDarkJoker ($1000 in chips) 
+Phwap: posts small blind $25
+Philbeer: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [8d 3d]
+TheDarkJoker: folds 
+calvin7v: raises $50 to $100
+matate: folds 
+Phwap: raises $900 to $1000 and is all-in
+Philbeer: folds 
+calvin7v: folds 
+Uncalled bet ($900) returned to Phwap
+Phwap collected $250 from pot
+Phwap: doesn't show hand 
+*** SUMMARY ***
+Total pot $250 | Rake $0 
+Seat 1: calvin7v folded before Flop
+Seat 2: matate (button) folded before Flop (didn't bet)
+Seat 3: Phwap (small blind) collected ($250)
+Seat 4: Philbeer (big blind) folded before Flop
+Seat 5: TheDarkJoker folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Game #42546892445:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:33:44 ET
+Table 'Dolios IV' 6-max Seat #4 is the button
+Seat 1: calvin7v ($900 in chips) 
+Seat 2: matate ($1999 in chips) 
+Seat 3: Phwap ($1225 in chips) 
+Seat 4: Philbeer ($925 in chips) 
+Seat 5: TheDarkJoker ($950 in chips) 
+TheDarkJoker: posts small blind $25
+calvin7v: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [Qs 9h]
+matate: folds 
+Phwap: folds 
+Philbeer: folds 
+TheDarkJoker: raises $50 to $100
+calvin7v: raises $800 to $900 and is all-in
+TheDarkJoker: folds 
+Uncalled bet ($800) returned to calvin7v
+calvin7v collected $200 from pot
+calvin7v: doesn't show hand 
+*** SUMMARY ***
+Total pot $200 | Rake $0 
+Seat 1: calvin7v (big blind) collected ($200)
+Seat 2: matate folded before Flop (didn't bet)
+Seat 3: Phwap folded before Flop (didn't bet)
+Seat 4: Philbeer (button) folded before Flop (didn't bet)
+Seat 5: TheDarkJoker (small blind) folded before Flop
+
+
+
+
+
+PokerStars Game #42546746181:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:26:09 ET
+Table 'Ostanina' 6-max Seat #1 is the button
+Seat 1: matate ($925 in chips) 
+Seat 2: Philbeer ($2023 in chips) 
+Seat 3: TheDarkJoker ($1075 in chips) 
+Seat 6: calvin7v ($975 in chips) 
+Philbeer: posts small blind $25
+TheDarkJoker: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [6c Qh]
+calvin7v: raises $50 to $100
+matate: folds 
+Philbeer: calls $75
+TheDarkJoker: folds 
+*** FLOP *** [9s Qs 2d]
+Philbeer: checks 
+calvin7v: checks 
+*** TURN *** [9s Qs 2d] [9c]
+Philbeer: bets $100
+calvin7v: calls $100
+*** RIVER *** [9s Qs 2d 9c] [As]
+Philbeer: bets $250
+calvin7v: calls $250
+*** SHOW DOWN ***
+Philbeer: shows [Kd 9h] (three of a kind, Nines)
+calvin7v: mucks hand 
+Philbeer collected $948 from pot
+*** SUMMARY ***
+Total pot $950 | Rake $2 
+Board [9s Qs 2d 9c As]
+Seat 1: matate (button) folded before Flop (didn't bet)
+Seat 2: Philbeer (small blind) showed [Kd 9h] and won ($948) with three of a kind, Nines
+Seat 3: TheDarkJoker (big blind) folded before Flop
+Seat 6: calvin7v mucked [Ks Jh]
+
+
+
+
+
+PokerStars Game #42546765026:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:27:08 ET
+Table 'Ostanina' 6-max Seat #3 is the button
+Seat 1: matate ($925 in chips) 
+Seat 2: Philbeer ($2521 in chips) 
+Seat 3: TheDarkJoker ($1000 in chips) 
+Seat 6: calvin7v ($550 in chips) 
+calvin7v: posts small blind $25
+matate: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [5s 2h]
+Philbeer: folds 
+TheDarkJoker: folds 
+calvin7v: raises $500 to $550 and is all-in
+menmar09 joins the table at seat #5 
+matate: calls $500
+*** FLOP *** [4d 6d 2s]
+*** TURN *** [4d 6d 2s] [Kh]
+*** RIVER *** [4d 6d 2s Kh] [Ac]
+*** SHOW DOWN ***
+calvin7v: shows [Tc 6c] (a pair of Sixes)
+matate: mucks hand 
+Sujumbike joins the table at seat #4 
+calvin7v collected $1098 from pot
+*** SUMMARY ***
+Total pot $1100 | Rake $2 
+Board [4d 6d 2s Kh Ac]
+Seat 1: matate (big blind) mucked [Qc 8c]
+Seat 2: Philbeer folded before Flop (didn't bet)
+Seat 3: TheDarkJoker (button) folded before Flop (didn't bet)
+Seat 6: calvin7v (small blind) showed [Tc 6c] and won ($1098) with a pair of Sixes
+
+
+
+
+
+PokerStars Game #42546784218:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:28:08 ET
+Table 'Ostanina' 6-max Seat #1 is the button
+Seat 1: matate ($350 in chips) 
+Seat 2: Philbeer ($2471 in chips) 
+Seat 3: TheDarkJoker ($1125 in chips) 
+Seat 5: menmar09 ($2450 in chips) 
+Seat 6: calvin7v ($1098 in chips) 
+Philbeer: posts small blind $25
+TheDarkJoker: posts big blind $50
+Sujumbike: sits out 
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [Js 8c]
+menmar09: folds 
+calvin7v: raises $50 to $100
+matate: folds 
+Philbeer: raises $150 to $250
+TheDarkJoker: folds 
+calvin7v: raises $848 to $1098 and is all-in
+Philbeer: calls $848
+*** FLOP *** [Qh 2s 9d]
+*** TURN *** [Qh 2s 9d] [Jd]
+*** RIVER *** [Qh 2s 9d Jd] [5d]
+*** SHOW DOWN ***
+Philbeer: shows [As 7d] (high card Ace)
+calvin7v: shows [Kh Kd] (a pair of Kings)
+calvin7v collected $2244 from pot
+*** SUMMARY ***
+Total pot $2246 | Rake $2 
+Board [Qh 2s 9d Jd 5d]
+Seat 1: matate (button) folded before Flop (didn't bet)
+Seat 2: Philbeer (small blind) showed [As 7d] and lost with high card Ace
+Seat 3: TheDarkJoker (big blind) folded before Flop
+Seat 5: menmar09 folded before Flop (didn't bet)
+Seat 6: calvin7v showed [Kh Kd] and won ($2244) with a pair of Kings
+
+
+
+
+
+PokerStars Game #42546821745:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:30:05 ET
+Table 'Ostanina' 6-max Seat #4 is the button
+Seat 1: matate ($425 in chips) 
+Seat 2: Philbeer ($1373 in chips) 
+Seat 3: TheDarkJoker ($1050 in chips) 
+Seat 4: Sujumbike ($925 in chips) 
+Seat 5: menmar09 ($2400 in chips) 
+Seat 6: calvin7v ($2319 in chips) 
+menmar09: posts small blind $25
+calvin7v: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [6c Qc]
+matate: raises $50 to $100
+Philbeer: calls $100
+TheDarkJoker: folds 
+Sujumbike: folds 
+menmar09: calls $75
+calvin7v: calls $50
+*** FLOP *** [3s Ts Ad]
+menmar09: checks 
+calvin7v: checks 
+matate: bets $325 and is all-in
+Philbeer: calls $325
+menmar09: raises $1975 to $2300 and is all-in
+calvin7v: folds 
+Philbeer: calls $948 and is all-in
+Uncalled bet ($1027) returned to menmar09
+*** TURN *** [3s Ts Ad] [3c]
+*** RIVER *** [3s Ts Ad 3c] [Ah]
+*** SHOW DOWN ***
+menmar09: shows [Tc Ac] (a full house, Aces full of Tens)
+Philbeer: mucks hand 
+menmar09 collected $1896 from side pot
+matate: mucks hand 
+menmar09 collected $1372 from main pot
+*** SUMMARY ***
+Total pot $3271 Main pot $1372. Side pot $1896. | Rake $3 
+Board [3s Ts Ad 3c Ah]
+Seat 1: matate mucked [As 7s]
+Seat 2: Philbeer mucked [Th 9h]
+Seat 3: TheDarkJoker folded before Flop (didn't bet)
+Seat 4: Sujumbike (button) folded before Flop (didn't bet)
+Seat 5: menmar09 (small blind) showed [Tc Ac] and won ($3268) with a full house, Aces full of Tens
+Seat 6: calvin7v (big blind) folded on the Flop
+
+
+
+
+
+PokerStars Game #42546840114:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:31:01 ET
+Table 'Ostanina' 6-max Seat #5 is the button
+Seat 2: Philbeer ($2000 in chips) 
+Seat 3: TheDarkJoker ($1050 in chips) 
+Seat 4: Sujumbike ($925 in chips) 
+Seat 5: menmar09 ($4295 in chips) 
+Seat 6: calvin7v ($2219 in chips) 
+calvin7v: posts small blind $25
+Philbeer: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [Qh 3c]
+TheDarkJoker: folds 
+Sujumbike: folds 
+menmar09: raises $100 to $150
+calvin7v: folds 
+Philbeer: calls $100
+*** FLOP *** [4h Qc 6s]
+Philbeer: checks 
+menmar09: checks 
+*** TURN *** [4h Qc 6s] [6h]
+Philbeer: bets $150
+menmar09: calls $150
+*** RIVER *** [4h Qc 6s 6h] [3d]
+Philbeer: bets $350
+menmar09: folds 
+Uncalled bet ($350) returned to Philbeer
+Philbeer collected $623 from pot
+*** SUMMARY ***
+Total pot $625 | Rake $2 
+Board [4h Qc 6s 6h 3d]
+Seat 2: Philbeer (big blind) collected ($623)
+Seat 3: TheDarkJoker folded before Flop (didn't bet)
+Seat 4: Sujumbike folded before Flop (didn't bet)
+Seat 5: menmar09 (button) folded on the River
+Seat 6: calvin7v (small blind) folded before Flop
+
+
+
+
+
+PokerStars Game #42546885549:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:33:22 ET
+Table 'Ostanina' 6-max Seat #4 is the button
+Seat 2: Philbeer ($2471 in chips) 
+Seat 3: TheDarkJoker ($975 in chips) 
+Seat 4: Sujumbike ($850 in chips) 
+Seat 5: menmar09 ($3945 in chips) 
+Seat 6: calvin7v ($2744 in chips) 
+menmar09: posts small blind $25
+calvin7v: posts big blind $50
+matate: sits out 
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [2d Ah]
+Philbeer: raises $50 to $100
+TheDarkJoker: folds 
+Sujumbike: folds 
+menmar09: folds 
+calvin7v: calls $50
+*** FLOP *** [Ac 3d 8d]
+calvin7v: checks 
+Philbeer: bets $100
+calvin7v: raises $200 to $300
+Philbeer: calls $200
+*** TURN *** [Ac 3d 8d] [Ad]
+calvin7v: bets $650
+Philbeer: calls $650
+*** RIVER *** [Ac 3d 8d Ad] [6h]
+calvin7v: bets $750
+Philbeer: raises $671 to $1421 and is all-in
+calvin7v: calls $671
+*** SHOW DOWN ***
+Philbeer: shows [4d Kd] (a flush, Ace high)
+calvin7v: shows [As Ts] (three of a kind, Aces)
+Philbeer collected $4965 from pot
+*** SUMMARY ***
+Total pot $4967 | Rake $2 
+Board [Ac 3d 8d Ad 6h]
+Seat 2: Philbeer showed [4d Kd] and won ($4965) with a flush, Ace high
+Seat 3: TheDarkJoker folded before Flop (didn't bet)
+Seat 4: Sujumbike (button) folded before Flop (didn't bet)
+Seat 5: menmar09 (small blind) folded before Flop
+Seat 6: calvin7v (big blind) showed [As Ts] and lost with three of a kind, Aces
+
+
+
+
+
+PokerStars Game #42546859893:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:32:02 ET
+Table 'Virtus II' 6-max Seat #5 is the button
+Seat 1: TheDarkJoker ($1000 in chips) 
+Seat 2: menmar09 ($2375 in chips) 
+Seat 3: Makeit2win ($1796 in chips) 
+Seat 4: Williegb ($5000 in chips) 
+Seat 5: matate ($1048 in chips) 
+Seat 6: Shippotamus ($2921 in chips) 
+Shippotamus: posts small blind $25
+TheDarkJoker: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [5h Jd]
+menmar09: folds 
+Makeit2win: folds 
+Williegb: folds 
+matate: raises $50 to $100
+Shippotamus: raises $2821 to $2921 and is all-in
+TheDarkJoker: folds 
+matate: folds 
+Uncalled bet ($2821) returned to Shippotamus
+Shippotamus collected $250 from pot
+Shippotamus: doesn't show hand 
+*** SUMMARY ***
+Total pot $250 | Rake $0 
+Seat 1: TheDarkJoker (big blind) folded before Flop
+Seat 2: menmar09 folded before Flop (didn't bet)
+Seat 3: Makeit2win folded before Flop (didn't bet)
+Seat 4: Williegb folded before Flop (didn't bet)
+Seat 5: matate (button) folded before Flop
+Seat 6: Shippotamus (small blind) collected ($250)
+
+
+
+
+
+PokerStars Game #42546876354:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:32:54 ET
+Table 'Virtus II' 6-max Seat #6 is the button
+Seat 1: TheDarkJoker ($950 in chips) 
+Seat 2: menmar09 ($2375 in chips) 
+Seat 3: Makeit2win ($1796 in chips) 
+Seat 4: Williegb ($5000 in chips) 
+Seat 5: matate ($948 in chips) 
+Seat 6: Shippotamus ($3071 in chips) 
+TheDarkJoker: posts small blind $25
+menmar09: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [Ks 6d]
+Makeit2win: calls $50
+Williegb: folds 
+matate: folds 
+Shippotamus: raises $150 to $200
+TheDarkJoker: folds 
+menmar09: calls $150
+Makeit2win: raises $550 to $750
+Shippotamus: raises $2321 to $3071 and is all-in
+menmar09: folds 
+Makeit2win: calls $1046 and is all-in
+Uncalled bet ($1275) returned to Shippotamus
+*** FLOP *** [7h Td 2h]
+*** TURN *** [7h Td 2h] [5d]
+*** RIVER *** [7h Td 2h 5d] [4c]
+*** SHOW DOWN ***
+Makeit2win: shows [Ah Kh] (high card Ace)
+Shippotamus: shows [Ad Qh] (high card Ace - lower kicker)
+Makeit2win collected $3814 from pot
+*** SUMMARY ***
+Total pot $3817 | Rake $3 
+Board [7h Td 2h 5d 4c]
+Seat 1: TheDarkJoker (small blind) folded before Flop
+Seat 2: menmar09 (big blind) folded before Flop
+Seat 3: Makeit2win showed [Ah Kh] and won ($3814) with high card Ace
+Seat 4: Williegb folded before Flop (didn't bet)
+Seat 5: matate folded before Flop (didn't bet)
+Seat 6: Shippotamus (button) showed [Ad Qh] and lost with high card Ace
+
+
+
+
+
+PokerStars Game #42546895461:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:33:53 ET
+Table 'Virtus II' 6-max Seat #1 is the button
+Seat 1: TheDarkJoker ($925 in chips) 
+Seat 2: menmar09 ($2175 in chips) 
+Seat 3: Makeit2win ($3814 in chips) 
+Seat 4: Williegb ($5000 in chips) 
+Seat 5: matate ($948 in chips) 
+Seat 6: Shippotamus ($2500 in chips) 
+menmar09: posts small blind $25
+Makeit2win: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [7c As]
+Williegb: folds 
+matate: folds 
+Shippotamus: raises $100 to $150
+TheDarkJoker: raises $775 to $925 and is all-in
+menmar09: folds 
+Makeit2win: folds 
+Shippotamus: folds 
+Uncalled bet ($775) returned to TheDarkJoker
+TheDarkJoker collected $375 from pot
+*** SUMMARY ***
+Total pot $375 | Rake $0 
+Seat 1: TheDarkJoker (button) collected ($375)
+Seat 2: menmar09 (small blind) folded before Flop
+Seat 3: Makeit2win (big blind) folded before Flop
+Seat 4: Williegb folded before Flop (didn't bet)
+Seat 5: matate folded before Flop (didn't bet)
+Seat 6: Shippotamus folded before Flop
+
+
+
+
+
+PokerStars Game #42546936638:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:36:02 ET
+Table 'Virtus II' 6-max Seat #4 is the button
+Seat 1: TheDarkJoker ($1372 in chips) 
+Seat 2: menmar09 ($2050 in chips) 
+Seat 3: Makeit2win ($3739 in chips) 
+Seat 4: Williegb ($5000 in chips) 
+Seat 5: matate ($973 in chips) 
+Seat 6: Shippotamus ($2500 in chips) 
+matate: posts small blind $25
+Shippotamus: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [4d 4h]
+TheDarkJoker: folds 
+menmar09: folds 
+Makeit2win: raises $50 to $100
+Williegb: folds 
+matate: raises $873 to $973 and is all-in
+Shippotamus: folds 
+Makeit2win: folds 
+Uncalled bet ($873) returned to matate
+matate collected $250 from pot
+matate: doesn't show hand 
+*** SUMMARY ***
+Total pot $250 | Rake $0 
+Seat 1: TheDarkJoker folded before Flop (didn't bet)
+Seat 2: menmar09 folded before Flop (didn't bet)
+Seat 3: Makeit2win folded before Flop
+Seat 4: Williegb (button) folded before Flop (didn't bet)
+Seat 5: matate (small blind) collected ($250)
+Seat 6: Shippotamus (big blind) folded before Flop
+
+
+
+
+
+PokerStars Game #42546915328:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:34:55 ET
+Table 'Dolios IV' 6-max Seat #1 is the button
+Seat 1: calvin7v ($975 in chips) 
+Seat 2: matate ($2024 in chips) 
+Seat 3: Phwap ($1225 in chips) 
+Seat 4: Philbeer ($925 in chips) 
+Seat 5: TheDarkJoker ($850 in chips) 
+matate: posts small blind $25
+Phwap: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [2s 2d]
+Philbeer: folds 
+TheDarkJoker: folds 
+calvin7v: raises $50 to $100
+matate: folds 
+Phwap: calls $50
+*** FLOP *** [5c 3h Qc]
+Phwap: checks 
+calvin7v: bets $100
+Phwap: raises $140 to $240
+calvin7v: calls $140
+*** TURN *** [5c 3h Qc] [5s]
+Phwap: bets $420
+Philbeer leaves the table
+calvin7v: raises $215 to $635 and is all-in
+Phwap: calls $215
+*** RIVER *** [5c 3h Qc 5s] [Qd]
+*** SHOW DOWN ***
+Phwap: shows [Js Qs] (a full house, Queens full of Fives)
+calvin7v: shows [Ad 7h] (two pair, Queens and Fives)
+Phwap collected $1973 from pot
+*** SUMMARY ***
+Total pot $1975 | Rake $2 
+Board [5c 3h Qc 5s Qd]
+Seat 1: calvin7v (button) showed [Ad 7h] and lost with two pair, Queens and Fives
+Seat 2: matate (small blind) folded before Flop
+Seat 3: Phwap (big blind) showed [Js Qs] and won ($1973) with a full house, Queens full of Fives
+Seat 4: Philbeer folded before Flop (didn't bet)
+Seat 5: TheDarkJoker folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Game #42546964114:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:37:27 ET
+Table 'Ostanina' 6-max Seat #1 is the button
+Seat 1: matate ($1000 in chips) 
+Seat 3: TheDarkJoker ($850 in chips) 
+Seat 4: Sujumbike ($925 in chips) 
+Seat 6: calvin7v ($323 in chips) 
+TheDarkJoker: posts small blind $25
+Sujumbike: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [3s 5c]
+calvin7v: raises $50 to $100
+matate: raises $900 to $1000 and is all-in
+TheDarkJoker: folds 
+Sujumbike: folds 
+calvin7v: calls $223 and is all-in
+Uncalled bet ($677) returned to matate
+*** FLOP *** [7h 6d 7s]
+*** TURN *** [7h 6d 7s] [Ac]
+*** RIVER *** [7h 6d 7s Ac] [7c]
+*** SHOW DOWN ***
+calvin7v: shows [As 4c] (a full house, Sevens full of Aces)
+matate: shows [Ah Js] (a full house, Sevens full of Aces)
+calvin7v collected $359.50 from pot
+matate collected $359.50 from pot
+*** SUMMARY ***
+Total pot $721 | Rake $2 
+Board [7h 6d 7s Ac 7c]
+Seat 1: matate (button) showed [Ah Js] and won ($359.50) with a full house, Sevens full of Aces
+Seat 3: TheDarkJoker (small blind) folded before Flop
+Seat 4: Sujumbike (big blind) folded before Flop
+Seat 6: calvin7v showed [As 4c] and won ($359.50) with a full house, Sevens full of Aces
+
+
+
+
+
+PokerStars Game #42546975450:  Hold'em No Limit ($25/$50 USD) - 2010/04/12 5:38:03 ET
+Table 'Ostanina' 6-max Seat #3 is the button
+Seat 1: matate ($1036.50 in chips) 
+Seat 3: TheDarkJoker ($825 in chips) 
+Seat 4: Sujumbike ($875 in chips) 
+Seat 6: calvin7v ($359.50 in chips) 
+Sujumbike: posts small blind $25
+calvin7v: posts big blind $50
+*** HOLE CARDS ***
+Dealt to TheDarkJoker [9s Th]
+matate: folds 
+TheDarkJoker: folds 
+Sujumbike: raises $50 to $100
+calvin7v: raises $259.50 to $359.50 and is all-in
+Sujumbike: calls $259.50
+*** FLOP *** [Jh 3d 8h]
+*** TURN *** [Jh 3d 8h] [Qd]
+*** RIVER *** [Jh 3d 8h Qd] [9c]
+*** SHOW DOWN ***
+Sujumbike: shows [Ac Kc] (high card Ace)
+calvin7v: mucks hand 
+Sujumbike collected $717 from pot
+*** SUMMARY ***
+Total pot $719 | Rake $2 
+Board [Jh 3d 8h Qd 9c]
+Seat 1: matate folded before Flop (didn't bet)
+Seat 3: TheDarkJoker (button) folded before Flop (didn't bet)
+Seat 4: Sujumbike (small blind) showed [Ac Kc] and won ($717) with high card Ace
+Seat 6: calvin7v (big blind) mucked [As 2d]
+
+
+
+
+
