@@ -1,7 +1,7 @@
 ## poker-java
 Poker programs by TheDarkJoker
 
-This is 3 programs and some shared libraries for support (which are mostly borrowed from elsewhere):
+This is 3 programs I made and some (mostly borrowed) shared libraries for support:
 
 #### 1 PowerRanger
 
